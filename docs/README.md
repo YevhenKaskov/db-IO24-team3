@@ -3,31 +3,18 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [2024] [Йорж Макисм]"
+footer: "ECL 2.0 Licensed | Copyright © [2024] [Каськов Євген]"
 ---
 
 
-**Виконали:** 
+**Виконав:** 
 
-*студенти 2-го курсу, групи ІО-24*<span padding-right:5em></span> 
-
-**Йорж Максим [Telegram](https://t.me/maksirh)**
-
-**Бородавко Павло [Telegram](https://t.me/paste0)**
-
-**Дзюра Антон [Telegram](https://t.me/Anton_Dziura)**
-
-**Довгань Максим [Telegram](https://t.me/rusnyahuynya)**
+*студент 2-го курсу, групи ІО-24*<span padding-right:5em></span> 
 
 **Каськов Євген [Telegram](https://t.me/evgenban)**
 
-**Маковецький Дмитро [Telegram](https://t.me/pechonueknugu)**
 
-**Ткаченко Михаїл [Telegram](https://t.me/Rafaaam)**
-
-
-
-**Керівник**
+**Керівник:**
 
 *доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
 
